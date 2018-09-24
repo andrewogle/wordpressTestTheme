@@ -1,1 +1,2 @@
 # wordpressTestTheme
+Teaching Myself WordPess
