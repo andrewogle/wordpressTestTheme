@@ -1,5 +1,5 @@
 /*
-Theme Name: Learning WordPress
+Theme Name: Test Theme
 Author: Andrew Ogle
 ;
 */
@@ -11,8 +11,8 @@ body {
 	background-color: #cccccc;
 }
 
-a: link,
-a: visited {
+a:link,
+a:visited {
 	color: #006ec3
 }
 
@@ -51,7 +51,7 @@ article.post {
 	margin: 0;
 	padding: 0;
 }
-.site-nav ul : before, .site-nav :after {
+.site-nav ul:before, .site-nav :after {
 	content: ""; display: table;
 }
 .site-nav ul :after {clear: both;}
